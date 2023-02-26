@@ -1,4 +1,5 @@
 # [DeepWiki](https://github.com/deepskies/DeepWiki/wiki)
 
+The [DeepWiki](https://github.com/deepskies/DeepWiki/wiki) provides the core of software and computational guidance for our research group. 
 
-All the info here is in the [wiki](https://github.com/deepskies/DeepWiki/wiki) itself! Look there!! 
+Look there!! ---> [     ](https://github.com/deepskies/DeepWiki/wiki)
